@@ -1,2 +1,9 @@
-#!HTML
-hello world!
+#!SOAP
+HTTP/1.1 200 OK
+Server: Microsoft-IIS/4.0 
+SOAPAction
+Date: Mon, 5 Jan 2018 13:13:33 GMT  Content-Type: text/html
+Last-Modified: Mon, 5 Jan 2016 13:13:12 GMT  Content-Length: 112
+
+<?xml version="1.0" encoding="GBK"?>
+<resp><code>0000</code><msg>success</msg></resp>
